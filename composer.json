@@ -1,0 +1,7 @@
+{
+    "name": "mastercoder1323/mini-messages",
+    "description": "A messaging website",
+    "type": "project",
+    "license": "ISC",
+    "require-dev": {}
+}
